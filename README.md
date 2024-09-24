@@ -1,15 +1,16 @@
-# Lab: Name
+# Workshop 1: Conning the Crypto Conman: End-to-End Analysis of Cryptocurrency-based Technical Support Scams
 By Luis Daniel Casais Mezquida  
-Subject 2X/2Y  
-Bachelor's Degree in Computer Science and Engineering  
+Sistemas de Ciberseguridad 24/25  
+Máster en Ingeniería Informática  
 Universidad Carlos III de Madrid
 
 
-## Project statement
+## Enunciado
+Lea el artículo ["Conning the Crypto Conman: End-to-End Analysis of Cryptocurrency-based Technical Support Scams"](https://arxiv.org/abs/2401.09824).
 
-
-
-
-## Installation and execution
-
+Deberá entregar un informe que incluya:
+- Resumen del artículo
+- Listado de contribuciones principales
+- Opinión crítica: posibles mejoras y/o trabajo futuro
+- Opinión personal
 
