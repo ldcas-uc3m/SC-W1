@@ -2,7 +2,7 @@
 %% uc3mreport.cls : LaTeX Class File
 % =========================================================================== %
 % Authors: Luis Daniel Casais Mezquida <luisdaniel.casais@alumnos.uc3m.es> &
-%          Jorge Lázaro Ruiz <jorge.lazaro@alumnos.uc3m.es>
+%          Jose Antonio Verde Jiménez <joseaverde@protonmail.com>
 
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{uc3mreport}[UC3M report template]
